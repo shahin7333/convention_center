@@ -25,3 +25,14 @@
     align-items: center;
     justify-content: center;
 }
+#cold
+{
+    height: 90px;
+    width: 170px;
+}
+#store
+{
+    height: 50px;
+    width: 50px;
+    margin-left: 5px;
+}
