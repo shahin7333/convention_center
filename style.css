@@ -20,3 +20,8 @@
 {
     background-color: #ffffff;
 }
+#review
+{
+    align-items: center;
+    justify-content: center;
+}
